@@ -1,0 +1,18 @@
+# Core Requirements
+opencv-python
+numpy
+insightface
+onnxruntime
+pillow
+tk
+
+# Optional (used in GUI & file handling)
+matplotlib
+pandas
+
+# Used by YOLOv8 face detection (lindevs implementation)
+ultralytics
+
+# For exporting CSV logs and UI dialogs
+openpyxl
+

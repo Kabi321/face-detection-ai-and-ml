@@ -1,0 +1,7 @@
+{
+  "detection_frame_skip": 5,
+  "embedding_similarity_threshold": 0.5,
+  "log_dir": "./logs",
+  "video_dir": "videos",
+  "selected_video": "video1.mp4"
+}
